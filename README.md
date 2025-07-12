@@ -26,4 +26,7 @@ This is a simple **console-based quiz application** written in Java. The quiz as
 2. Open Command Prompt or Terminal.
 3. Compile the program:<img width="1920" height="1020" alt="1000083321" src="https://github.com/user-attachments/assets/c4ae7068-d9c8-42d3-bd89-e4fd94710203" />
 <img width="1920" height="1020" alt="1000083323" src="https://github.com/user-attachments/assets/866c2575-bd81-462f-b30c-d7dd763cdf5b" />
-
+2. Takes input from the user for each question.
+3. Compares the input with the correct answer.
+4. Increments score for correct answers.
+5. Displays final score after all questions are answered.
